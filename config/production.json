@@ -1,0 +1,6 @@
+{
+  "env": "Production",
+  "mongodbUrl": "",
+  "jwtPrivateKey": "",
+  "viewsPath": "./dist/app/views"
+}
